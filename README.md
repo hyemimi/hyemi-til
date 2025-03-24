@@ -101,3 +101,5 @@
 [📁  25.03.21 vanila JS에서 UI 구성 방식(DOM 조작)](./Mar/2025-03-21.md)
 
 [📁  25.03.23 HTTP Keep-alive, TCP Fast Open, TLS O-RTT](./Mar/2025-03-23.md)
+
+[📁  25.03.24 CI/CD의 필요성과 JSON.stringify와 JSON.parse() (직렬화, 역직렬화)](./Mar/2025-03-24.md)
